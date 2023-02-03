@@ -1,2 +1,3 @@
 That is my first temp file.
 new data
+master branch data
